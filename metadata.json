@@ -1,0 +1,8 @@
+{
+  "name": "The Blind Recruiter",
+  "description": "A blind recruitment tool that redacts sensitive personal candidate identification data locally in the browser before sending evaluated text to AI for evaluation, scoring, and analysis, ensuring unbiased matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
